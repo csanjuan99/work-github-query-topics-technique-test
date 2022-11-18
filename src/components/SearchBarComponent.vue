@@ -2,7 +2,7 @@
   <input
     type="text"
     class="text-lg px-5 py-3 focus:outline-none focus:ring-2 focus:ring-neutral-200 focus:border-transparent rounded-lg w-full"
-    placeholder="Buscar"
+    placeholder="'facebook', 'vuejs', 'react', etc..."
     v-model="text"
   />
 </template>
